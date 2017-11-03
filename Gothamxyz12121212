@@ -1,4 +1,5 @@
-#EXTM3U  
+#EXTM3U $ExtFilter="Gotham S1-S4"
+tvg-logo="https://i.imgur.com/jFwnjaI.png"
 #EXTINF:0,Season 1 EP1
 https://openload.co/stream/DMwPG2PBwDI~1509731869~46.208.0.0~gkZWd8No?mime=true
 #EXTINF:0,Season 1 EP2
