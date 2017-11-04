@@ -52,3 +52,11 @@ http://smashtv.ddns.net:9090/load/7c97410f261c/7073.mpegts
 http://smashtv.ddns.net:9090/load/7c97410f261c/273.mpegts
 #EXTINF:-1,1 :BT Sport ESPN HD
 http://smashtv.ddns.net:9090/load/7c97410f261c/7099.mpegts
+#EXTINF:-1,1 :Fab SS News SD
+http://meowyapmeow.com:8080/live/ghudcbfk/m24UgroK17/25401.ts
+#EXTINF:-1,1 :Fab SS News HD
+http://meowyapmeow.com:8080/live/ghudcbfk/m24UgroK17/1285.ts
+#EXTINF:-1,1 :Fab SS News Back Up
+http://meowyapmeow.com:8080/live/ghudcbfk/m24UgroK17/40423.ts
+#EXTINF:-1,1 :Fab SS News Back Up 2
+http://meowyapmeow.com:8080/live/ghudcbfk/m24UgroK17/41065.ts
