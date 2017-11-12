@@ -19,16 +19,28 @@ http://smashtv.ddns.net:9090/load/7a7fc8f19949/4.mpegts
 http://smashtv.ddns.net:9090/load/7a7fc8f19949/7116.mpegts
 #EXTINF:-1,1 :BBC ALBA
 http://smashtv.ddns.net:9090/load/7a7fc8f19949/533.mpegts
+#EXTINF:-1,1 :ITV HD
+http://liquidit.info:8080/live/lawless212/98765550/24840.ts
+#EXTINF:-1,1 :ITV HD
+http://liquidit.info:8080/live/lawless212/98765550/24748.ts
+#EXTINF:-1,1 :ITV HD
+http://liquidit.info:8080/live/lawless212/98765550/36073.ts
 #EXTINF:-1,1 :ITV SD
 http://smashtv.ddns.net:9090/load/7a7fc8f19949/29.mpegts
 #EXTINF:-1,1 :ITV HD
 http://smashtv.ddns.net:9090/load/7a7fc8f19949/7090.mpegts
-#EXTINF:-1,1 :ITV 2 SD
+#EXTINF:-1,1 :ITV 2 HD
+http://liquidit.info:8080/live/lawless212/98765550/24841.ts
+#EXTINF:-1,1 :ITV 2 HD
+http://liquidit.info:8080/live/lawless212/98765550/24747.ts
+#EXTINF:-1,1 :ITV 2 HD
 http://smashtv.ddns.net:9090/load/7a7fc8f19949/30.mpegts
 #EXTINF:-1,1 :ITV 2 HD
 http://smashtv.ddns.net:9090/load/7a7fc8f19949/7102.mpegts
 #EXTINF:-1,1 :ITV 2 +1
 http://smashtv.ddns.net:9090/load/7a7fc8f19949/7501.mpegts
+#EXTINF:-1,1 :ITV CHOICE HD
+http://liquidit.info:8080/live/lawless212/98765550/40260.ts
 #EXTINF:-1,1 :ITV 3 SD
 http://smashtv.ddns.net:9090/load/7a7fc8f19949/31.mpegts
 #EXTINF:-1,1 :ITV 3 HD
@@ -48,9 +60,15 @@ http://smashtv.ddns.net:9090/load/7a7fc8f19949/7089.mpegts
 #EXTINF:-1,1 :ITV Be +1
 http://smashtv.ddns.net:9090/load/7a7fc8f19949/7500.mpegts
 #EXTINF:-1,1 :ITV Encore HD
+http://liquidit.info:8080/live/lawless212/98765550/37354.ts
+#EXTINF:-1,1 :ITV Encore HD
 http://smashtv.ddns.net:9090/load/7a7fc8f19949/655.mpegts
+#EXTINF:-1,1 :BLAZE
+http://liquidit.info:8080/live/lawless212/98765550/39280.ts
 #EXTINF:-1,1 :Channel 4 SD
 http://smashtv.ddns.net:9090/load/7a7fc8f19949/33.mpegts
+#EXTINF:-1,1 :Channel 4 HD
+http://liquidit.info:8080/live/lawless212/98765550/24786.ts
 #EXTINF:-1,1 :Channel 4 HD
 http://smashtv.ddns.net:9090/load/7a7fc8f19949/7093.mpegts
 #EXTINF:-1,1 :Channel 4 +1
@@ -58,13 +76,19 @@ http://smashtv.ddns.net:9090/load/7a7fc8f19949/7454.mpegts
 #EXTINF:-1,1 :CHANNEL 5 SD
 http://smashtv.ddns.net:9090/load/7a7fc8f19949/34.mpegts
 #EXTINF:-1,1 :CHANNEL 5 HD
+http://liquidit.info:8080/live/lawless212/98765550/24784.ts
+#EXTINF:-1,1 :CHANNEL 5 HD
 http://smashtv.ddns.net:9090/load/7a7fc8f19949/7100.mpegts
 #EXTINF:-1,1 :CHANNEL 5 +1
 http://smashtv.ddns.net:9090/load/7a7fc8f19949/7455.mpegts
 #EXTINF:-1,1 :Sky 1
+http://liquidit.info:8080/live/lawless212/98765550/24720.ts
+#EXTINF:-1,1 :Sky 1
 http://smashtv.ddns.net:9090/load/7a7fc8f19949/71.mpegts
 #EXTINF:-1,1 :Sky 1 HD
 http://smashtv.ddns.net:9090/load/7a7fc8f19949/7110.mpegts
+#EXTINF:-1,1 :Sky 1 HD
+http://liquidit.info:8080/live/lawless212/98765550/36685.ts
 #EXTINF:-1,1 :5* HD
 http://smashtv.ddns.net:9090/load/7a7fc8f19949/264.mpegts
 #EXTINF:-1,1 :MORE 4 HD
@@ -301,6 +325,10 @@ http://smashtv.ddns.net:9090/load/7a7fc8f19949/7431.mpegts
 http://smashtv.ddns.net:9090/load/7a7fc8f19949/24.mpegts
 #EXTINF:-1,1 :Sky Sports Main Event HD
 http://smashtv.ddns.net:9090/load/7a7fc8f19949/6850.mpegts
+#EXTINF:-1,1 :Sky Sports Main Event (BK)
+http://liquidit.info:8080/live/lawless212/98765550/37614.ts
+#EXTINF:-1,1 :Sky Sports Main Event (BK)
+http://liquidit.info:8080/live/lawless212/98765550/24700.ts
 #EXTINF:-1,1 :Sky Sports Cricket
 http://smashtv.ddns.net:9090/load/7a7fc8f19949/25.mpegts
 #EXTINF:-1,1 :Sky Sports Cricket HD
@@ -335,6 +363,10 @@ http://smashtv.ddns.net:9090/load/7a7fc8f19949/7071.mpegts
 http://smashtv.ddns.net:9090/load/7a7fc8f19949/63.mpegts
 #EXTINF:-1,1 :Sky Sports News HD
 http://smashtv.ddns.net:9090/load/7a7fc8f19949/7072.mpegts
+#EXTINF:-1,1 :Sky Sports News (BK)
+http://liquidit.info:8080/live/lawless212/98765550/24750.ts
+#EXTINF:-1,1 :Sky Sports News (BK)
+http://liquidit.info:8080/live/lawless212/98765550/36781.ts
 #EXTINF:-1,1 :BT Sport 1
 http://smashtv.ddns.net:9090/load/7a7fc8f19949/1201.mpegts
 #EXTINF:-1,1 :BT Sport 1 HD
