@@ -243,6 +243,8 @@ http://smashtv.ddns.net:9090/load/7a7fc8f19949/46.mpegts
 http://smashtv.ddns.net:9090/load/7a7fc8f19949/7491.mpegts
 #EXTINF:-1,1 :MTV HITS
 http://smashtv.ddns.net:9090/load/7a7fc8f19949/263.mpegts
+#EXTINF:-1,1 :MTV HITS HD
+http://liquidit.info:8080/live/lawless212/98765550/26347.ts
 #EXTINF:-1,1 :MTV HD
 http://smashtv.ddns.net:9090/load/7a7fc8f19949/7095.mpegts
 #EXTINF:-1,1 :MTV MUSIC
@@ -279,6 +281,8 @@ http://smashtv.ddns.net:9090/load/7a7fc8f19949/7477.mpegts
 http://smashtv.ddns.net:9090/load/7a7fc8f19949/7478.mpegts
 #EXTINF:-1,1 :VIVA
 http://smashtv.ddns.net:9090/load/7a7fc8f19949/965.mpegts
+#EXTINF:-1,1 :CAPITAL TV
+http://liquidit.info:8080/live/lawless212/98765550/37647.ts
 #EXTINF:-1,1 :NICEKLOADON HD
 http://smashtv.ddns.net:9090/load/7a7fc8f19949/420.mpegts
 #EXTINF:-1,1 :NICK JR UK HD
