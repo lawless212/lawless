@@ -355,6 +355,8 @@ http://smashtv.ddns.net:9090/load/7a7fc8f19949/28.mpegts
 http://smashtv.ddns.net:9090/load/7a7fc8f19949/6906.mpegts
 #EXTINF:-1,1 :Sky Sports Arena HD
 http://smashtv.ddns.net:9090/load/7a7fc8f19949/7556.mpegts
+#EXTINF:-1,1 :Sky Sports Arena HD
+http://liquidit.info:8080/live/lawless212/98765550/36674.ts
 #EXTINF:-1,1 :Sky Sports F1
 http://smashtv.ddns.net:9090/load/7a7fc8f19949/64.mpegts
 #EXTINF:-1,1 :Sky Sports F1 HD
