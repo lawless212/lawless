@@ -10,3 +10,9 @@ http://liquidit.info:8080/live/lawless212/98765550/36745.ts
 http://liquidit.info:8080/live/lawless212/98765550/36674.ts
 #EXTINF:-1,1 :stream 6
 http://liquidit.info:8080/live/lawless212/98765550/27449.ts
+#EXTINF:-1,1 :stream 7
+http://ww2.cast2.cricket/channels/1080.m3u8
+#EXTINF:-1,1 :stream 8
+http://80.82.78.24:1935/tv/rSp8kgyMrs20171105/chunklist_w1712096627_tkaGxzZW5kdGltZT0xNTEwNzEwNjYwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9UC04dHZnaGdpUTlHaUhfV2JaN0E4XzVQS1NVNUxGRlVXNjlpZlR5MVZRZz0=.m3u8
+#EXTINF:-1,1 :stream 9
+http://ww11.cast2.cricket/channels/1080.m3u8
