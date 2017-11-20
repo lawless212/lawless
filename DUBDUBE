@@ -1,18 +1,22 @@
 #EXTINF:-1,1 :Stream 1
-http://80.82.78.24:1935/tv/rSp8kgyMrs20171105/chunklist_w1712096627_tkaGxzZW5kdGltZT0xNTEwNzEwNjYwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9UC04dHZnaGdpUTlHaUhfV2JaN0E4XzVQS1NVNUxGRlVXNjlpZlR5MVZRZz0=.m3u8
+http://liquidit.info:8080/live/lawless212/98765550/39798.ts
 #EXTINF:-1,1 :Stream 2
-http://80.82.78.24:1935/tv/rSp8kgyMrs20171105/media_w1712096627_tkaGxzZW5kdGltZT0xNTEwNzEwNjYwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9UC04dHZnaGdpUTlHaUhfV2JaN0E4XzVQS1NVNUxGRlVXNjlpZlR5MVZRZz0=_3619.m3u8?
-#EXTINF:-1,1 :stream 3
-http://smashtv.ddns.net:9090/load/7a7fc8f19949/7556.mpegts
+http://liquidit.info:8080/live/lawless212/98765550/39797.ts
+#EXTINF:-1,1 :Stream 3
+http://liquidit.info:8080/live/lawless212/98765550/39796.ts
 #EXTINF:-1,1 :stream 4
-http://liquidit.info:8080/live/lawless212/98765550/36745.ts
+http://liquidit.info:8080/live/lawless212/98765550/36525.ts
 #EXTINF:-1,1 :stream 5
 http://liquidit.info:8080/live/lawless212/98765550/36674.ts
 #EXTINF:-1,1 :stream 6
 http://liquidit.info:8080/live/lawless212/98765550/27449.ts
 #EXTINF:-1,1 :stream 7
-http://ww2.cast2.cricket/channels/1080.m3u8
+http://smashtv.ddns.net:9090/load/7a7fc8f19949/79.mpegts
 #EXTINF:-1,1 :stream 8
-http://80.82.78.24:1935/tv/rSp8kgyMrs20171105/chunklist_w1712096627_tkaGxzZW5kdGltZT0xNTEwNzEwNjYwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9UC04dHZnaGdpUTlHaUhfV2JaN0E4XzVQS1NVNUxGRlVXNjlpZlR5MVZRZz0=.m3u8
+http://smashtv.ddns.net:9090/load/7a7fc8f19949/79.mpegts
 #EXTINF:-1,1 :stream 9
-http://ww11.cast2.cricket/channels/1080.m3u8
+http://ww15.cast2.cricket/channels/1080.m3u8
+#EXTINF:-1,1 :stream 10
+http://51.15.167.3/channels/1080.m3u8
+#EXTINF:-1,1 :stream 11
+http://ww11.cast2.cricket/channels/1080.ts
